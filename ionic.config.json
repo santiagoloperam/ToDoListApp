@@ -1,0 +1,7 @@
+{
+  "name": "mercatrack",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
